@@ -1,0 +1,23 @@
+﻿  apartmentFuncs.c
+  dateFuncs.c
+  fileFuncs.c
+c:\users\איתמר קליין\desktop\gits-upload\apartment manager\filefuncs.c(34): warning C4133: '=': incompatible types - from 'CommandNode *' to 'CommandNode *'
+c:\users\איתמר קליין\desktop\gits-upload\apartment manager\filefuncs.c(277): warning C4244: '=': conversion from 'short' to 'BYTE', possible loss of data
+c:\users\איתמר קליין\desktop\gits-upload\apartment manager\filefuncs.c(291): warning C4244: '=': conversion from 'short' to 'BYTE', possible loss of data
+c:\users\איתמר קליין\desktop\gits-upload\apartment manager\filefuncs.c(295): warning C4244: '=': conversion from 'short' to 'BYTE', possible loss of data
+c:\users\איתמר קליין\desktop\gits-upload\apartment manager\filefuncs.c(285): warning C4244: 'initializing': conversion from 'short' to 'BYTE', possible loss of data
+c:\users\איתמר קליין\desktop\gits-upload\apartment manager\filefuncs.c(286): warning C4244: 'initializing': conversion from 'short' to 'BYTE', possible loss of data
+  generalFuncs.c
+c:\users\איתמר קליין\desktop\gits-upload\apartment manager\generalfuncs.c(46): warning C4133: '=': incompatible types - from 'CommandNode *' to 'CommandNode *'
+c:\users\איתמר קליין\desktop\gits-upload\apartment manager\generalfuncs.c(61): warning C4133: '=': incompatible types - from 'CommandNode *' to 'CommandNode *'
+  getAnAptFuncs.c
+  historyFuncs.c
+c:\users\איתמר קליין\desktop\gits-upload\apartment manager\historyfuncs.c(73): warning C4133: '=': incompatible types - from 'CommandNode *' to 'CommandNode *'
+c:\users\איתמר קליין\desktop\gits-upload\apartment manager\historyfuncs.c(89): warning C4133: '=': incompatible types - from 'CommandNode *' to 'CommandNode *'
+  ListFuncs.c
+c:\users\איתמר קליין\desktop\gits-upload\apartment manager\listfuncs.c(11): warning C4133: '=': incompatible types - from 'CommandNode *' to 'CommandNode *'
+c:\users\איתמר קליין\desktop\gits-upload\apartment manager\listfuncs.c(12): warning C4133: '=': incompatible types - from 'CommandNode *' to 'CommandNode *'
+c:\users\איתמר קליין\desktop\gits-upload\apartment manager\listfuncs.c(45): warning C4133: '=': incompatible types - from 'CommandNode *' to 'CommandNode *'
+  main.c
+  Generating Code...
+  apartment manager.vcxproj -> C:\Users\איתמר קליין\Desktop\gits-upload\apartment manager\Debug\apartment manager.exe
